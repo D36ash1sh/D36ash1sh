@@ -29,9 +29,6 @@
 
 <h3 align="left">About me ☕</h3>
 
-###
-
-<br clear="both">
 
 <h4 align="left">A passionate full-stack developer from West Bengal, India</h4>
 

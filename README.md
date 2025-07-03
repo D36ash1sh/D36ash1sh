@@ -63,23 +63,7 @@
 
 <h3 align="left">My Stats :</h3>
 
-###
+![](https://github-readme-stats.vercel.app/api?username=D36ash1sh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=D36ash1sh&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=D36ash1sh&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=D36ash1sh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D36ash1sh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=D36ash1sh&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D36ash1sh&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D36ash1sh/D36ash1sh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D36ash1sh/D36ash1sh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D36ash1sh/D36ash1sh/output/pacman-contribution-graph.svg">
-</picture>
-
-###

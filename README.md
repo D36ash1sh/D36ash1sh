@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczA2ZG9iY3Vwa2pocjVhdnp2c3h1NWxlMjU5bWFvdTJrZm1rd3h2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif"  />
+  <img height="150" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczA2ZG9iY3Vwa2pocjVhdnp2c3h1NWxlMjU5bWFvdTJrZm1rd3h2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWscyl3Uo9eCGRdWvN/giphy.gif"  />
 </div>
 
 ###
@@ -43,17 +43,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" width="40" alt="tailwindcss logo"  />
 </div>
 
 ###
